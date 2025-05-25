@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModulesForSubtree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d6b255fc1861094d5dd7ba10e281079e6b5bce5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModulesForSubtree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModulesForSubtree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
