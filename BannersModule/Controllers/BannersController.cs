@@ -19,7 +19,7 @@ namespace ModulesForSubtree.BannersModule.Controllers
         public async Task<IActionResult> Insert(BannersCreateRequest request)
         {
             await bannersService.Create(request);
-
+            //asd
             return Ok();
         }
 
