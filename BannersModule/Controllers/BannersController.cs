@@ -19,18 +19,12 @@ namespace ModulesForSubtree.BannersModule.Controllers
         public async Task<IActionResult> Insert(BannersCreateRequest request)
         {
             await bannersService.Create(request);
-            //asd
+            //aaaa
             return Ok();
         }
 
         [HttpGet("Second")]
         public async Task<IActionResult> Second()
-        {
-            return Ok();
-        }
-
-        [HttpGet("Conflict2")]
-        public async Task<IActionResult> Conflict2()
         {
             return Ok();
         }
